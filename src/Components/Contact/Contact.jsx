@@ -44,10 +44,10 @@ const [result, setResult] = React.useState("");
           university community.
         </p>
         <ul>
-          <li> <img src={mail_icon} alt="" /> Contct@GreatStack.dev</li>
-          <li> <img src={phone_icon} alt="" /> +1 123-456-7890</li>
-          <li> <img src={location_icon} alt="" /> 77 Massachusetts Ave, Cambridge
-           <br/> MA 02139, United States</li>
+          <li> <img src={mail_icon} alt="" /> principal@alits.ac.in</li>
+          <li> <img src={phone_icon} alt="" /> 9533513999</li>
+          <li> <img src={location_icon} alt="" /> Near S.K. University, Itukalapalli,
+          <br /> Anantapur, Andhra Pradesh - 515721</li>
         </ul>
 
       </div>
